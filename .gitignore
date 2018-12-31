@@ -1,0 +1,44 @@
+*.py[co]
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+
+#Translations
+*.mo
+
+#Mr Developer
+.mr.developer.cfg
+
+# Student solutions on Matt's computer
+student_solutions
+
+# iPython notebook outputs
+*/.ipynb_checkpoints
+lecture_notebooks/*.fits
+homework_notebooks/*.fits
+
+# Mac stuff
+.DS_Store
+.ipynb_checkpoints/
+*.pickle
+answer.tsv
+traindata.tsv
+validationdata.tsv
+corpus.tsv
